@@ -1,2 +1,1 @@
-# myblog
-personal articles
+## This is my persernal blog responsitory
